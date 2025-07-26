@@ -1,2 +1,12 @@
-# assignments.md
-Bank Lending System – Agetware Backend Assignment This repository contains solutions to the backend assignment problems outlined in assignments.md for Agetware. It includes RESTful API implementations for loan creation, EMI calculation, payment tracking, ledger generation, and account overview using Node.js, Express.js, and SQLite. 
+# Bank Lending System
+
+This is a backend system for managing loan operations like EMI calculation, payment tracking, and ledger generation.
+
+##  Tech Stack
+- Node.js
+- Express.js
+- SQLite
+
+## Installation
+npm install
+node index.js
